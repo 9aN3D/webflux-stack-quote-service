@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>guru.springframework</groupId>
-    <artifactId>webflux-stack-quote-service</artifactId>
+    <artifactId>webflux-stock-quote-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>webflux-stack-quote-service</name>
-    <description>Webflux Stack Quote Service</description>
+    <name>webflux-stock-quote-service</name>
+    <description>Webflux Stock Quote Service</description>
 
     <properties>
         <java.version>1.8</java.version>
